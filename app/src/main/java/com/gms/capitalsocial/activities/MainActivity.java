@@ -1,4 +1,4 @@
-package com.gms.capitalsocial;
+package com.gms.capitalsocial.activities;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -8,6 +8,8 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+
+import com.gms.capitalsocial.R;
 
 public class MainActivity extends AppCompatActivity {
 
